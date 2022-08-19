@@ -11,7 +11,13 @@
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSsc&layout=compact&langs_count=7&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelSsc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSsc&layout=compact&langs_count=7&theme=midnight-purple"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelSsc&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
