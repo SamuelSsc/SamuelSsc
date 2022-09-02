@@ -24,4 +24,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
 
-![Snake animation](https://github.com/SamuelSsc/SamuelSsc/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/SamuelSsc/SamuelSsc/blob/output/github-contribution-grid-snake.svg)
