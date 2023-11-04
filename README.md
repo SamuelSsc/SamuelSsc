@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React, TypeScript and Next.
+- 🔭 I’m currently working on React, React Native, TypeScript and Next.
 - 🌱 I’m currently learning Node and Next.js.
 
 <div>
