@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React, React Native, TypeScript and Next.
-- 🌱 I’m currently learning Node and Next.js.
+- 🔭 I’m currently working on React, React Native, TypeScript, Nodejs and Next.
+- 🌱 I’m currently learning React Native and Node.
 
 <div>
 <a href="https://github.com/SamuelSsc">
