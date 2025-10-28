@@ -36,8 +36,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="40" height="40" />          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"  width="40" height="40" />
+          
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">
+<!-- <img src="https://br.freepik.com/vetores-gratis/laptop-com-icone-de-codigo-isometrico-de-programa-desenvolvimento-de-software-e-aplicacoes-de-programacao-neon-escuro_4102879.htm#fromView=keyword&page=1&position=2&uuid=c9e0f89c-086b-46ac-9b6e-2be5735bcdbd&query=Developer+background" min-width="300px" max-width="300px" width="300px" align="right"> -->
 
+![971](https://github.com/user-attachments/assets/0ca34647-2be3-4a1b-8b12-dfcf8931ce1e)
 
