@@ -1,13 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on React, React Native, TypeScript, Nodejs, postgres and Next.
-- 🌱 I’m currently learning React Native, Nest and Node.
+- 🌱 I’m currently learning SQL, Python, IA agents and data analysis.
 
-<div>
-<a href="https://github.com/SamuelSsc">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSsc&layout=compact&langs_count=7&theme=midnight-purple"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelSsc&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-</div>
+
 
 ### Tecnologias
 <div style="
